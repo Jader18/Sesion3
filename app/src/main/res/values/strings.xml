@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Sesion3</string>
+    <string name="login">Login</string>
+    <string name="tvLogin">Bienvenidos a mi app</string>
+    <string name="logo_description">logo_login</string>
+    <string name="id_usuario">ID Usuario</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="ingresar">Login</string>
+    <string name="msn_age">Ingresa tu edad</string>
+    <string name="msn_person">Persona</string>
+    <string name="msn_btn_evaluate">Evaluar edad</string>
+    <string name="msn_nota">Registro de Nota</string>
+    <string name="student_name">Nombre del estudiante</string>
+    <string name="nota_1">Nota 1</string>
+    <string name="nota_2">Nota 2</string>
+    <string name="nota_3">Nota 3</string>
+    <string name="calcular_nota_final">Calcular nota final</string>
+    <string name="msn_btn_go_grade">Calcular Notas</string>
+    <string name="menu_principal">Menu Principal</string>
+    <string name="_0">0</string>
+</resources>
